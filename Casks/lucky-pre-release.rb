@@ -1,6 +1,6 @@
 cask 'lucky-pre-release' do
     version 'pre-release'
-    sha256 'ecc2fbb88769fefbc7858ef0d601b706c75a61d30cc046a88fe6803702145f50'
+    sha256 'a1d87ee2433cb824ff1e6ad7a49083c53044b0249bbc8aec5fcc06a57adace68'
     
     url 'https://github.com/katharostech/lucky/releases/download/pre-release/lucky-mac-x86_64.tgz'
     appcast 'https://github.com/katharostech/lucky/releases.atom'
